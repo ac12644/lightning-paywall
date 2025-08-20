@@ -19,7 +19,7 @@ Uses **LNbits** for invoice creation/checking, **BIP32 (XPUB)** for address deri
 ## Demo
 
 <p align="center">
-  <video src="content/video.mp4" width="600" controls></video>
+  <img src="content/video.gif" width="600" />
 </p>
 
 ---
